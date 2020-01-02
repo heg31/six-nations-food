@@ -1,6 +1,7 @@
 ---
 title: Observing the Feast of Super Saturday
 date: 2014-04-02
+image: "img/ss-cheese.JPG"
 tags:
   - "super saturday"
   - "cheese"
@@ -24,3 +25,5 @@ It's like Christmas, but better because there is rugby. So much rugby. And in ho
 
 4. **Booze**
   Much like Christmas, it is absolutely fine to crack into the prosecco at midday.
+
+{{< figure src="/img/ss-cheese.JPG" width="500" >}}

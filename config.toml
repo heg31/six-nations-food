@@ -3,7 +3,9 @@ title = "Six Nations Food"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 relativeURLs = true
-theme = "mainroad"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "Helen and Jeff"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
@@ -16,6 +18,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   avatar = "img/avatar.png"
 
 [Params]
+  logo = "/images/logo.png"
   subtitle = "Combining foods whether they like it or not since 2014" # Subtitle of your site
   description = "A blog about rugby, food, and tenuous mash-ups" # Description of your site
   opengraph = true
@@ -25,13 +28,14 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   post_navigation = true
   post_meta = ["date", "categories"] # Order of post meta information
 
-[Params.sidebar]
-  home = "right"   # Configure layout for home page
-  list = "right"   # Configure layout for list pages
-  single = "right" # Configure layout for single pages
-  # Enable widgets in given order
-  widgets = ["recent", "categories", "taglist"]
+[Params.index]
+   picture = "/images/author.jpg"
+   title = "Six nations food - the blog"
+   subtitle = "All the recipes you never knew you wanted, for combinations that should never have existed"
+   altertbar = true
 
-[Params.widgets]
-  recent_num = 5 # Set the number of articles in the "Recent articles" widget
-  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+[[menu.main]]
+    name = "Blog posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts"

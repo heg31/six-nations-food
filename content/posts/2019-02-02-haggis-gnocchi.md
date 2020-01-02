@@ -2,6 +2,7 @@
 title: Haggis Gnocchi
 description: Haggis plus stodge, Italian style
 date: 2019-02-02
+image: "img/2019-02-02-haggis-gnocchi.JPG"
 tags:
   - "Scotland"
   - "Italy"

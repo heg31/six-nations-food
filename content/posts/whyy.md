@@ -1,6 +1,7 @@
 ---
 title: Why are you doing this?
 date: 2014-03-10
+image: "img/whyy-so-organised.JPG"
 linktitle: whyy
 menu:
   main:
