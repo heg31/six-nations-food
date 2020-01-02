@@ -7,3 +7,6 @@
 [submodule "mediumish-gohugo-theme"]
 	path = mediumish-gohugo-theme
 	url = https://github.com/lgaida/mediumish-gohugo-theme
+[submodule "mediumish"]
+	path = themes/mediumish-gohugo-theme
+	url = https://github.com/lgaida/mediumish-gohugo-theme
