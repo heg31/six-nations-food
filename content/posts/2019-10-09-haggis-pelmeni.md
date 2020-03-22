@@ -22,7 +22,7 @@ A bit of effort and uncharted territory for this one, but actually not that diff
 
 Scotland playing Russia opened up an opportunity to explore Russian cuisine. However the only Russian food we’d heard of was borscht, and we didn’t really fancy beetroot soup for breakfast, so we googled 'what do people eat in Russia' and came across [this blogpost](https://www.tripsavvy.com/traditional-russian-foods-4173498). The first item on the list was...borscht. And then the next item was a different soup. And another soup. And another. Eventually though, the post mentioned pelmeni, a type of dumpling, which sounded good.
 
-We’d never made anything like that before, but [this recipe](https://www.olivemagazine.com/recipes/meat-and-poultry/pelmeni-russian-dumplings/) was pretty straightforward, swapping haggis for the more traditional meat and onion filling. There are videos online that show you the folding technique, which are helpful as it's not that easy to picture in your head but not that difficult once you've seen it. It just takes a little time to fold them all up.
+We’d never made anything like that before, but [this recipe](https://www.olivemagazine.com/recipes/meat-and-poultry/pelmeni-russian-dumplings/) was pretty straightforward, swapping the more traditional meat and onion filling for haggis. There are videos online that show you the folding technique, which are helpful as it's not that easy to picture in your head but not that difficult once you've seen it. It just takes a little time to fold them all up.
 
 {{< figure src="/img/2019-10-09-pelmeni-process.jpg" caption="Make a dough, chop into chunks, roll out into circles, fill, and fold." width="500" >}}
 
