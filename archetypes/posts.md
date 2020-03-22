@@ -2,7 +2,7 @@
 title: [name of dish]
 description: [description of page]
 date: [date of match YYYY-MM-DD]
-image: "img/name-of-file.jpg" []
+image: "img/name-of-file.JPG"
 tags:
   - "hometeam"
   - "awayteam"
@@ -19,7 +19,7 @@ tags:
 
 Description of the dish, inspiration, recipes used, etc.
 
-{{< figure src="/img/filename.jpg" caption="caption" width="500" >}}
+{{< figure src="/img/filename.JPG" caption="caption" width="500" >}}
 
 If you want to post a hyperlink you can do so like this:
 [link text](https://www.url.com/)
