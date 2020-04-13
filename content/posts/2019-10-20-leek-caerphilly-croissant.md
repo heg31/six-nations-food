@@ -19,4 +19,4 @@ tags:
 
 Yet another outing for the leek and Caerphilly pairing, topping a croissant this time (we were slightly surprised we'd never done this one before). A fair amount of butter is involved. Braise leeks in butter, and stick them on an all butter croissant with some caerphilly. Finish in the oven to melt.
 
-{{< figure src="/img/2019-10-12-leek-caerphilly-croissant.jpg" caption="A simple lunch" width="500" >}}
+{{< figure src="/img/2019-10-20-leek-caerphilly-croissant.jpg" caption="<sup>*A simple lunch*</sup>" width="500" >}}

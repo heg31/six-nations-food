@@ -19,9 +19,15 @@ tags:
 
 Description of the dish, inspiration, recipes used, etc.
 
-{{< figure src="/img/filename.JPG" caption="caption" width="500" >}}
+{{< figure src="/img/filename.JPG" caption="<sup>*caption*</sup>" width="500" >}}
 
 If you want to post a hyperlink you can do so like this:
 [link text](https://www.url.com/)
 You can use relative URLs to link to other pages on the site:
 [link text](/posts/2019-02-02-haggis-gnocchi/)
+
+If you want to add a footnote put this[^1] in the text
+then complete the footnote text like this:
+[^1]: <sub>Footnote text here.</sub>
+(it will automatically be placed at the bottom of the page so you can keep the
+  footnote text with its number)

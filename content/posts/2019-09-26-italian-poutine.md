@@ -22,4 +22,4 @@ We dreamed this one up whilst eating poutine outside in the sunshine, in a Canad
 
 To Italian-ify the poutine, we decided to use mozzarella instead of cheese curds. We used a nice smoked mozzarella, with Essential Waitrose fries and some homemade gravy. It was all a bit soggy and unconvincing, although as chips n cheese with gravy goes, it was probably the fanciest we’ve ever had.
 
-{{< figure src="/img/2019-09-26-italian-poutine.JPG" caption="It tasted about as good as it looked" width="500" >}}
+{{< figure src="/img/2019-09-26-italian-poutine.JPG" caption="<sup>*It tasted about as good as it looked*</sup>" width="500" >}}

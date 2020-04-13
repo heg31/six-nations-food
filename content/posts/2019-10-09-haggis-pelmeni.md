@@ -24,14 +24,14 @@ Scotland playing Russia opened up an opportunity to explore Russian cuisine. How
 
 We’d never made anything like that before, but [this recipe](https://www.olivemagazine.com/recipes/meat-and-poultry/pelmeni-russian-dumplings/) was pretty straightforward, swapping the more traditional meat and onion filling for haggis. There are videos online that show you the folding technique, which are helpful as it's not that easy to picture in your head but not that difficult once you've seen it. It just takes a little time to fold them all up.
 
-{{< figure src="/img/2019-10-09-pelmeni-process.jpg" caption="Make a dough, chop into chunks, roll out into circles, fill, and fold." width="500" >}}
+{{< figure src="/img/2019-10-09-pelmeni-process.jpg" caption="<sup>*Make a dough, chop into chunks, roll out into circles, fill, and fold.*</sup>" width="500" >}}
 
 A bit like a gnocchi, you boil them for a few minutes until they float. They were really tasty in the end, with a bit of sour cream.
 
-{{< figure src="/img/2019-10-09-pelmeni-finished.JPG" caption="Tasty pelmeni" width="500" >}}
+{{< figure src="/img/2019-10-09-pelmeni-finished.JPG" caption="<sup>*Tasty pelmeni*</sup>" width="500" >}}
 
 We ate them alongside some more simple smoked salmon blinis[^1] but those were shop bought. A most indulgent breakfast, to accompany Scotland's magnificent 61-0 defeat of Russia. That was a good morning.
 
-{{< figure src="/img/2019-10-09-salmon-blini.JPG" caption="Still, a nice thing to have for breakfast" width="500" >}}
+{{< figure src="/img/2019-10-09-salmon-blini.JPG" caption="<sup>*Still, a nice thing to have for breakfast*</sup>" width="500" >}}
 
-[^1]: To be honest we'd bought the blinis in case the dumplings had failed miserably.
+[^1]: <sub>To be honest we'd bought the blinis in case the dumplings had failed miserably.</sub>

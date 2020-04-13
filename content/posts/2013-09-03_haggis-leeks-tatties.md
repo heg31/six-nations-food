@@ -18,4 +18,4 @@ tags:
 
 A fairly simple substitution this one, leeks were brought in to replace neeps. There was also some Penderyn Whisky added to the accompanying cream sauce (*Welsh whisky?? Sacrilege! But also rather nice*).
 
-{{< figure src="/img/2013-03-09-haggis-leeks-tatties.JPG" caption="Only a crap blurry photo of this one unfortunately" width="500" >}}
+{{< figure src="/img/2013-03-09-haggis-leeks-tatties.JPG" caption="<sup>*Only a crap blurry photo of this one unfortunately*</sup>" width="500" >}}
