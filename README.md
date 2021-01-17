@@ -8,4 +8,4 @@ Code for the six nations food website.
 
 * Clone the submodules! ```git submodule update --init```
 
-* Install Hugo
+* Install Hugo 
