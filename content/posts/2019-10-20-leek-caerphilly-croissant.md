@@ -1,5 +1,5 @@
 ---
-title: Leek and Caerphilly croissant
+title: Leek and Caerphilly Croissant
 description: A simple combination with lots of butter
 date: 2019-10-20
 image: "img/2019-10-20-leek-caerphilly-croissant.jpg"
@@ -17,6 +17,6 @@ tags:
 
 ### The food
 
-Yet another outing for the leek and Caerphilly pairing, topping a croissant this time (we were slightly surprised we'd never done this one before). A fair amount of butter is involved. Braise leeks in butter, and stick them on an all butter croissant with some caerphilly. Finish in the oven to melt.
+Yet another outing for the leek and Caerphilly pairing, topping a croissant this time (we were slightly surprised we'd never done this one before). A fair amount of butter is involved. Braise leeks in butter, and stick them on an all butter croissant with some Caerphilly cheese. Finish in the oven to melt.
 
 {{< figure src="/img/2019-10-20-leek-caerphilly-croissant.jpg" caption="<sup>*A simple lunch*</sup>" width="500" >}}

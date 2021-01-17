@@ -1,5 +1,5 @@
 ---
-title: Morbier gnocchi
+title: Morbier Gnocchi
 description: Tartiflette, but with morbier, but with gnocchi
 date: 2016-02-06
 image: "img/2016-02-06-morbier-gnocchi-2.JPG"

@@ -1,5 +1,5 @@
 ---
-title: Italian poutine
+title: Italian Poutine
 description: An Italian twist on the chips-cheese-gravy combo
 date: 2019-09-26
 image: "img/2019-09-26-italian-poutine.JPG"

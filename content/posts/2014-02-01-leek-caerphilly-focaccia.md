@@ -1,5 +1,5 @@
 ---
-title: Leek and Caerphilly focaccia
+title: Leek and Caerphilly Focaccia
 description: focaccia made with leek and Caerphilly
 date: 2014-02-01
 image: "img/2014-02-01-leek-caerphilly-focaccia.JPG"
@@ -19,4 +19,4 @@ tags:
 
 Leek and Caerphilly crop up in a lot of our recipes involving Wales, but they work so well in a number of different formats. Here we created a focaccia to snack on during the game, which puffed up a bit more than expected but was tasty nonetheless.
 
-{{< figure src="/img/2014-02-01-leek-caerphilly-focaccia.JPG" width="500" >}}
+{{< figure src="/img/2014-02-01-leek-caerphilly-focaccia.JPG" caption="<sup>*They look a bit like slippers*</sup>" width="500" >}}

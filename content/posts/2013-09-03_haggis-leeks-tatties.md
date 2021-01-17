@@ -1,5 +1,5 @@
 ---
-title: Haggis, leeks and tatties
+title: Haggis, Leeks and Tatties
 description: A leeky twist on the classic HNT
 date: 2013-09-03
 image: "img/2013-03-09-haggis-leeks-tatties.JPG"
