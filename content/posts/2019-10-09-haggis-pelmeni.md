@@ -1,5 +1,5 @@
 ---
-title: Haggis pelmeni (and smoked salmon blinis)
+title: Haggis Pelmeni (and Smoked Salmon Blinis)
 description: Russian pelmeni stuffed with haggis, with backup blinis
 date: 2019-10-09
 image: "img/2019-10-09-pelmeni-finished.JPG"

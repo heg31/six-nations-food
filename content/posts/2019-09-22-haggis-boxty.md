@@ -1,5 +1,5 @@
 ---
-title: Haggis, egg and boxty
+title: Haggis, Egg and Boxty
 description: Potato boxty with haggis and egg makes a lovely brunch dish
 date: 2019-09-22
 image: "img/2019-09-22-haggis-boxty-egg.JPG"
@@ -14,7 +14,7 @@ tags:
 
 **Date:** 22nd September 2019
 **Who was playing:** Scotland v Ireland
-**What was the score:** 27-3
+**What was the score:** 3-27
 
 ### The food
 
