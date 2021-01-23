@@ -7,6 +7,7 @@ tags:
   - "England"
   - "France"
   - "world cup"
+  - "ridiculous"
 ---
 
 ### The game
