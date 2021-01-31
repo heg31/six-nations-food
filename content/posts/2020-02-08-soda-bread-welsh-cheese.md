@@ -17,7 +17,7 @@ tags:
 
 ### The food
 
-Cheese is for life, not just [Super Saturday](/posts/supersaturday.md). And Wales has some cracking ones. If you are a cheese lover and you've never baked a Golden Cenarth, please do so immediately. Today's cheeseboard was further enhanced by two [Snowdonia](https://www.snowdoniacheese.co.uk/shop/) cheeses - Black Bomber and Red Storm - having failed to choose between the two.
+Cheese is for life, not just [Super Saturday](/posts/supersaturday/). And Wales has some cracking ones. If you are a cheese lover and you've never baked a Golden Cenarth, please do so immediately. Today's cheeseboard was further enhanced by two [Snowdonia](https://www.snowdoniacheese.co.uk/shop/) cheeses - Black Bomber and Red Storm - having failed to choose between the two.
 
 To accompany the cheese, some Irish soda bread - specifically [this recipe](https://www.waitrose.com/home/recipes/recipe_directory/g/guinness-and-treaclesodabread.html) for Guinness and treacle soda bread. We used the Guinness West Indies Porter, which added a little extra flavour and sweetness, and the leftovers were a fine match for the cheeseboard. It's a solid, relatively foolproof bread recipe - highly recommended.
 
