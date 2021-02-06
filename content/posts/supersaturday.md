@@ -1,7 +1,7 @@
 ---
 title: Observing the Feast of Super Saturday
 date: 2014-04-02
-image: "img/ss-cheese.JPG"
+image: "img/ss-cheese-2018.JPG"
 tags:
   - "super saturday"
   - "cheese"
