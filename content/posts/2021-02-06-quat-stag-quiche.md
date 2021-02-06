@@ -19,7 +19,7 @@ tags:
 
 In the midst of miserable lockdown three, a shining beacon: the Six Nations. Something to do. Something actually... happening? So something to celebrate, with some nonsense cooking and maybe a glass of fizz.
 
-The basic quiche recipe came from [here](https://www.bbc.co.uk/food/recipes/quichelorraine_71987), but this was more than your standard Lorraine. The pastry got an additional hit of herbs (oregano and thyme), as well as bit of parmesan. While the pastry was blind baking, some mushrooms were fried in butter, with some garlic, until most of the moisture had come out. For the last 5 minutes of blind baking, some torn up proscuitto was thrown in with the mushrooms. These were then added to the pastry crust, along with some chopped up cherry tomatoes, olives, and artichokes.
+The basic quiche recipe came from [here](https://www.bbc.co.uk/food/recipes/quichelorraine_71987), but this was more than your standard Lorraine. The pastry got an additional hit of herbs (oregano and thyme), as well as a grating of parmesan. While the pastry was blind baking, a punnet of chestnut mushrooms were fried in butter, with some garlic, until most of the moisture had come out of the mushrooms. For the last 5 minutes of blind baking, a pack of proscuitto was torn up and thrown in with the mushrooms. These were then added to the pastry crust, along with chopped up cherry tomatoes, olives, and artichokes.
 
 {{< figure src="/img/2021-02-06-qs-quiche-1.jpg" caption="<sup>*Molto Italiano*</sup>" width="500" >}}
 
@@ -31,6 +31,6 @@ After about 40 minutes in the oven the quiche was ready, set, go.
 
 {{< figure src="/img/2021-02-06-qs-quiche-3.jpg" caption="<sup>*Looking good*</sup>" width="500" >}}
 
-A good chunk of quiche, with a glass of champagne to toast the start of another Six Nations tournament. The pastry was light and crisp, the filling worked as well as a quiche as it does as a pizza.
+A good chunk of quiche, with a glass of champagne to toast the start of another Six Nations tournament. The pastry was light and crisp, the filling really worked in quiche form, and France somewhat predictably annihilated Italy. *Tres bien!*
 
 {{< figure src="/img/2021-02-06-qs-quiche-4.jpg" caption="<sup>*Perfection*</sup>" width="500" >}}
