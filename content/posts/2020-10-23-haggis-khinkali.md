@@ -16,11 +16,11 @@ tags:
 
 ### The food
 
-It was just a friendly warm-up match between Scotland and Georgia, but it was momentous nonetheless; it heralded the return of international rugby to the northern hemisphere after a 7 month hiaitus, and the return of bonkers fusion cookery to our kitchen.
+Just a friendly warm-up match between Scotland and Georgia, but momentous nonetheless, heralding the return of international rugby to the northern hemisphere after a 7 month hiaitus, and the return of bonkers fusion cookery to our kitchen.
 
 Georgians, it turns out, enjoy a type of dumpling called khinkali. They're not too dissimilar to the [Russian pelmeni](/posts/2019-10-09-haggis-pelmeni/) we had made before. Although the two nations may have a different take on the specifics of the meat filling, we of course had our own ideas, and opted to fill them with haggis.
 
-We took the dough recipe and method from [here](https://www.theworldwasherefirst.com/khinkali-recipe/), with a bit of assistance on folding technique from [this helpful video](https://www.instagram.com/p/BYqLXV0hHtw/?hl=en). The filling was haggis. Literally just haggis. McSween's of course.
+We took the dough recipe and method from [here](https://www.theworldwasherefirst.com/khinkali-recipe/), with a bit of assistance on folding technique from [this helpful video](https://www.instagram.com/p/BYqLXV0hHtw/?hl=en). The filling was haggis. Literally just haggis. [Macsween](https://www.macsween.co.uk/) of course.
 
 The folding was a bit trickier than the pelmeni! So the results were not quite as pleasingly neat as we'd managed before, although probably not too bad for a first attempt at a fiddly technique.
 
