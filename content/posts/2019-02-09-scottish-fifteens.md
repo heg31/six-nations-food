@@ -17,6 +17,6 @@ tags:
 
 ### The food
 
-Had to have a go at making a Scottish version of these, following up from the [Italian version](posts/2015-02-07-italian-fifteens). This time digestives are replaced with Scottish shortbread and whisky soaked raisins take the place of some of the cherries.
+Had to have a go at making a Scottish version of these, following up from the [Italian version](/posts/2015-02-07-italian-fifteens). This time digestives are replaced with Scottish shortbread and whisky soaked raisins take the place of some of the cherries.
 
 {{< figure src="/img/2019-02-09-scottish-fifteens.JPG" width="500" >}}
