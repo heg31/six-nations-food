@@ -1,4 +1,4 @@
-baseurl = "https://six-nations-food.netlify.com/"
+baseurl = "https://six-nations-food.netlify.app/"
 title = "Six Nations Food"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
