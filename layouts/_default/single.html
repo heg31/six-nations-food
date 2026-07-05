@@ -51,12 +51,19 @@
 
                     <!-- Post Content -->
                     <div class="article-post">
+                        <h2>The game</h2>
+                        <b>Date: </b>{{ dateFormat "2nd January, 2006" .Date }}<br>
+                        <b>Who was playing: </b>{{ .Params.home_team }} v {{ .Params.away_team}}<br>
+                        <b>What was the score: </b>{{ .Params.score }}<br><br>
+                        <h2>The food</h2>
                         {{ .Content}}
                     </div>
 
                     <!-- Post Categories -->
                     <div class="after-post-tags">
                         <ul class="tags">
+                        <li><a href="{{ "/tags/" | relLangURL }}{{ .Params.home_team | urlize }}">{{.Params.home_team}}</a>
+                        <a href="{{ "/tags/" | relLangURL }}{{ .Params.away_team | urlize }}">{{.Params.away_team}}</a></li>
                         {{ range .Params.tags }}
                         <li>
                         <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{.}}</a>

@@ -3,6 +3,10 @@ title: [name of dish]
 description: [description of page]
 date: [date of match YYYY-MM-DD]
 image: "img/name-of-file.JPG"
+params:
+  home_team: "hometeam"
+  away_team: "awayteam"
+  score: "12-23"
 tags:
   - "hometeam"
   - "awayteam"
