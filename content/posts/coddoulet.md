@@ -10,6 +10,7 @@ tags:
   - surprisinglygood
   - yum
 date: 2023-02-11T00:00:00.000+00:00
+image: img/2023-02-11-coddle-finished.jpg
 ---
 Usually Six Nations Food is about taking two things that would not normally go together, and finding a way to merge them into an unusual but exciting new combination. However this one was slightly different, celebrating two dishes that come from different places with completely different food cultures, but whose paths must surely have crossed at some point in history.
 
