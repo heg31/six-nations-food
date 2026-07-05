@@ -21,5 +21,6 @@ collections:
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Thumbnail", name: "image", widget: "string" }
 
 publish_mode: editorial_workflow
