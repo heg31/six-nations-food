@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master   # or your default branch
+  branch: template   # or your default branch
 
 media_folder: "static/img"   # where uploaded images are stored
 public_folder: "/img"       # how images are referenced in content
@@ -14,6 +14,11 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
+      - { label: "Summary", name: "summary", widget: "string" }
+      - { label: "Home team", name: "home_team", widget: "string" }
+      - { label: "Away team", name: "away_team", widget: "away_team" }
+      - { label: "Score", name: "score", widget: "string" }
+      - { label: "Tags", name: "description", widget: "list" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
 
